@@ -20,7 +20,7 @@ These segments offer valuable insights to help Brand 5 tailor its marketing and 
 
 **Purchase Analysis:**
 
-Next, I analyzed offline customer purchase data, which included transaction details, pricing, and customer information. By applying the previously developed segmentation model, I assigned each customer to a segment to explore segment-specific behaviors. The analysis revealed clear differences in purchase patterns and brand preferences. Notably, the Career-Focused segment showed strong loyalty to *Brand 5* and contributed the highest share of its revenue, indicating this group as high-value and brand-loyal.
+Next, I analyzed offline customer purchase data, which included transaction details, pricing, and customer information. By applying the previously developed segmentation model, I assigned each customer to a segment to explore segment-specific behaviors. The analysis revealed clear differences in purchase patterns and brand preferences. Notably, the Career-Focused segment showed strong loyalty to *Brand 5* and contributed the highest share of its revenue, indicating this group as high-value.
 
 **Predictive Modeling:**
 
